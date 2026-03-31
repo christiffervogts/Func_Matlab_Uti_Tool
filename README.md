@@ -1,2 +1,3 @@
-# Func_Matlab_Uti_Tool
-this is a function utility tool that runs in matlab. this will be converted to a proper function later but currently it is just a script
+<h1>What is this?</h1>
+<p1>This is a script (soon to be function) that I am developing that will allow you to input a function and do a buch of stuff to it in a user friendly manner. This is made so I can easily solve questions. This is only the beginning so I still have lots to add. currently it will take the darivitve, intagral, find the value, or set equal to a value for a given function. I'd like to add more functionallity later like saveing more than one function at once or haveing the ability to plot a function. I don't know much matlab and don't plan on learning too much however I think this is a fun project to get my feet wet with the language and hopefully be a useful tool for myself and others.</p1>
+<p2> This tool is open to use however since you are not the creator of this I ask that you are not to use this for school work as that would be accdemic dishonnesty. Other than that use this as much as you wish! </p2>
